@@ -1,0 +1,1 @@
+/usr/bin/g++    -g -std=c++11 -fPIC -g    CMakeFiles/MysqlPoolTest.dir/MysqlPoolTest.o  -o ../../../../src/mysql/test/MysqlPoolTest  -L/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/lib -rdynamic ../../../../lib/libtiny_network.so -lpthread -lmysqlclient -Wl,-rpath,/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/lib 

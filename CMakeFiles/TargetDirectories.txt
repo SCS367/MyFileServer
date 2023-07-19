@@ -1,0 +1,6 @@
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/src/logger/test/CMakeFiles/AsyncLoggingTest.dir
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/src/http/CMakeFiles/FileServer.dir
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/src/memory/test/CMakeFiles/MemoryPoolTest.dir
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/src/mysql/test/CMakeFiles/MysqlPoolTest.dir
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/example/CMakeFiles/echoServer.dir
+/home/scs1/桌面/A-Tiny-Network-Library-main/My-Tiny-Network-Library-main/CMakeFiles/tiny_network.dir
